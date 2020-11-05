@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="InheritanceTest1.CarBase">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAABAAAAAAA=</HashCode>
+      <FileName>InheritanceTest1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InheritanceTest1.Car">
+    <Position X="2.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAADAAAAAAAAAA=</HashCode>
+      <FileName>InheritanceTest1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InheritanceTest1.Benz">
+    <Position X="0.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InheritanceTest1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InheritanceTest1.Tesla">
+    <Position X="2.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InheritanceTest1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InheritanceTest1.Future">
+    <Position X="5.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InheritanceTest1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InheritanceTest1.InheritanceTest1" Collapsed="true">
+    <Position X="7.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>InheritanceTest1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="InheritanceTest1.CarType" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InheritanceTest1.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>

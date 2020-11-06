@@ -27,6 +27,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OverRideTest1", "OverRideTe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacerTest1", "InterfacerTest1\InterfacerTest1.csproj", "{92259FC7-E483-41B9-BD7C-587CA6902DE7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttributeTest1", "AttributeTest1\AttributeTest1.csproj", "{4D5B5362-F355-4658-B180-CB549735AE48}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -77,6 +79,10 @@ Global
 		{92259FC7-E483-41B9-BD7C-587CA6902DE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92259FC7-E483-41B9-BD7C-587CA6902DE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92259FC7-E483-41B9-BD7C-587CA6902DE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D5B5362-F355-4658-B180-CB549735AE48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D5B5362-F355-4658-B180-CB549735AE48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D5B5362-F355-4658-B180-CB549735AE48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D5B5362-F355-4658-B180-CB549735AE48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
